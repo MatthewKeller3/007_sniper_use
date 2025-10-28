@@ -1,0 +1,218 @@
+{"timestamp":"2025-10-16T07:18:33.152Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T07:18:33.155Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T07:18:33.156Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T07:18:33.156Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T07:18:33.157Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T07:18:33.157Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T07:18:33.158Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T07:18:33.160Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T07:30:04.045Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T07:30:04.050Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T07:30:04.051Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T07:30:04.052Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T07:30:04.053Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T07:30:04.053Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T07:30:04.054Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T07:30:04.055Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T07:33:04.814Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T07:33:04.818Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T07:33:04.819Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T07:33:04.819Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T07:33:04.819Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T07:33:04.819Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T07:33:04.820Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T07:33:04.821Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T12:07:45.210Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T12:07:45.212Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T12:07:45.213Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T12:07:45.213Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T12:07:45.214Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T12:07:45.214Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T12:07:45.215Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T12:07:45.215Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T15:01:10.492Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T15:01:10.495Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T15:01:10.496Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T15:01:10.496Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T15:01:10.497Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T15:01:10.497Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T15:01:10.498Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T15:01:10.499Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T15:02:30.180Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T15:02:30.184Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T15:02:30.185Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T15:02:30.186Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T15:02:30.186Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T15:02:30.186Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T15:02:30.187Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T15:02:30.188Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T15:03:23.327Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T15:03:23.333Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T15:03:23.334Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T15:03:23.335Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T15:03:23.336Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T15:03:23.337Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T15:03:23.339Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T15:03:23.340Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T15:08:23.348Z","level":"INFO","message":"💓 Monitor active - Listening for 5m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:13:23.352Z","level":"INFO","message":"💓 Monitor active - Listening for 10m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:18:23.356Z","level":"INFO","message":"💓 Monitor active - Listening for 15m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:23:23.360Z","level":"INFO","message":"💓 Monitor active - Listening for 20m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:28:23.364Z","level":"INFO","message":"💓 Monitor active - Listening for 25m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:33:23.369Z","level":"INFO","message":"💓 Monitor active - Listening for 30m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:38:23.374Z","level":"INFO","message":"💓 Monitor active - Listening for 35m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:43:23.374Z","level":"INFO","message":"💓 Monitor active - Listening for 40m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:48:23.377Z","level":"INFO","message":"💓 Monitor active - Listening for 45m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:53:23.380Z","level":"INFO","message":"💓 Monitor active - Listening for 50m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T15:58:23.383Z","level":"INFO","message":"💓 Monitor active - Listening for 55m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:03:23.386Z","level":"INFO","message":"💓 Monitor active - Listening for 60m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:08:23.389Z","level":"INFO","message":"💓 Monitor active - Listening for 65m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:13:23.393Z","level":"INFO","message":"💓 Monitor active - Listening for 70m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:18:23.396Z","level":"INFO","message":"💓 Monitor active - Listening for 75m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:23:23.398Z","level":"INFO","message":"💓 Monitor active - Listening for 80m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:28:23.400Z","level":"INFO","message":"💓 Monitor active - Listening for 85m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:33:23.402Z","level":"INFO","message":"💓 Monitor active - Listening for 90m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:38:23.403Z","level":"INFO","message":"💓 Monitor active - Listening for 95m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:43:23.410Z","level":"INFO","message":"💓 Monitor active - Listening for 100m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:48:23.411Z","level":"INFO","message":"💓 Monitor active - Listening for 105m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:53:23.413Z","level":"INFO","message":"💓 Monitor active - Listening for 110m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T16:58:23.414Z","level":"INFO","message":"💓 Monitor active - Listening for 115m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:03:23.414Z","level":"INFO","message":"💓 Monitor active - Listening for 120m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:08:23.416Z","level":"INFO","message":"💓 Monitor active - Listening for 125m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:13:23.417Z","level":"INFO","message":"💓 Monitor active - Listening for 130m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:18:23.422Z","level":"INFO","message":"💓 Monitor active - Listening for 135m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:23:23.423Z","level":"INFO","message":"💓 Monitor active - Listening for 140m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:28:23.428Z","level":"INFO","message":"💓 Monitor active - Listening for 145m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:33:23.433Z","level":"INFO","message":"💓 Monitor active - Listening for 150m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:38:23.437Z","level":"INFO","message":"💓 Monitor active - Listening for 155m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:43:23.440Z","level":"INFO","message":"💓 Monitor active - Listening for 160m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:48:23.445Z","level":"INFO","message":"💓 Monitor active - Listening for 165m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:53:23.448Z","level":"INFO","message":"💓 Monitor active - Listening for 170m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T17:58:23.452Z","level":"INFO","message":"💓 Monitor active - Listening for 175m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:03:23.456Z","level":"INFO","message":"💓 Monitor active - Listening for 180m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:08:23.458Z","level":"INFO","message":"💓 Monitor active - Listening for 185m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:13:23.461Z","level":"INFO","message":"💓 Monitor active - Listening for 190m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:18:23.464Z","level":"INFO","message":"💓 Monitor active - Listening for 195m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:23:23.466Z","level":"INFO","message":"💓 Monitor active - Listening for 200m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:28:23.468Z","level":"INFO","message":"💓 Monitor active - Listening for 205m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:33:23.469Z","level":"INFO","message":"💓 Monitor active - Listening for 210m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:38:23.471Z","level":"INFO","message":"💓 Monitor active - Listening for 215m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:43:23.473Z","level":"INFO","message":"💓 Monitor active - Listening for 220m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:48:23.474Z","level":"INFO","message":"💓 Monitor active - Listening for 225m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:53:23.476Z","level":"INFO","message":"💓 Monitor active - Listening for 230m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T18:58:23.476Z","level":"INFO","message":"💓 Monitor active - Listening for 235m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:03:23.477Z","level":"INFO","message":"💓 Monitor active - Listening for 240m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:08:23.478Z","level":"INFO","message":"💓 Monitor active - Listening for 245m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:13:23.478Z","level":"INFO","message":"💓 Monitor active - Listening for 250m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:18:23.479Z","level":"INFO","message":"💓 Monitor active - Listening for 255m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:23:23.484Z","level":"INFO","message":"💓 Monitor active - Listening for 260m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:28:23.490Z","level":"INFO","message":"💓 Monitor active - Listening for 265m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:33:23.493Z","level":"INFO","message":"💓 Monitor active - Listening for 270m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:38:23.498Z","level":"INFO","message":"💓 Monitor active - Listening for 275m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:43:23.503Z","level":"INFO","message":"💓 Monitor active - Listening for 280m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:48:23.503Z","level":"INFO","message":"💓 Monitor active - Listening for 285m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:53:23.508Z","level":"INFO","message":"💓 Monitor active - Listening for 290m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T19:58:23.513Z","level":"INFO","message":"💓 Monitor active - Listening for 295m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:03:23.516Z","level":"INFO","message":"💓 Monitor active - Listening for 300m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:08:23.520Z","level":"INFO","message":"💓 Monitor active - Listening for 305m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:13:23.524Z","level":"INFO","message":"💓 Monitor active - Listening for 310m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:18:23.528Z","level":"INFO","message":"💓 Monitor active - Listening for 315m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:23:23.531Z","level":"INFO","message":"💓 Monitor active - Listening for 320m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:29:05.486Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-16T20:29:05.494Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-16T20:29:05.495Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-16T20:29:05.496Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-16T20:29:05.497Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-16T20:29:05.497Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-16T20:29:05.499Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-16T20:29:05.500Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}
+{"timestamp":"2025-10-16T20:34:05.507Z","level":"INFO","message":"💓 Monitor active - Listening for 5m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:39:05.511Z","level":"INFO","message":"💓 Monitor active - Listening for 10m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:44:05.517Z","level":"INFO","message":"💓 Monitor active - Listening for 15m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:49:05.521Z","level":"INFO","message":"💓 Monitor active - Listening for 20m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:54:05.526Z","level":"INFO","message":"💓 Monitor active - Listening for 25m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T20:59:05.529Z","level":"INFO","message":"💓 Monitor active - Listening for 30m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:04:05.534Z","level":"INFO","message":"💓 Monitor active - Listening for 35m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:09:05.538Z","level":"INFO","message":"💓 Monitor active - Listening for 40m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:14:05.541Z","level":"INFO","message":"💓 Monitor active - Listening for 45m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:19:05.545Z","level":"INFO","message":"💓 Monitor active - Listening for 50m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:24:05.548Z","level":"INFO","message":"💓 Monitor active - Listening for 55m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:29:05.552Z","level":"INFO","message":"💓 Monitor active - Listening for 60m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:34:05.555Z","level":"INFO","message":"💓 Monitor active - Listening for 65m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:39:05.558Z","level":"INFO","message":"💓 Monitor active - Listening for 70m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:44:05.560Z","level":"INFO","message":"💓 Monitor active - Listening for 75m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:49:05.562Z","level":"INFO","message":"💓 Monitor active - Listening for 80m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:54:05.563Z","level":"INFO","message":"💓 Monitor active - Listening for 85m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T21:59:05.565Z","level":"INFO","message":"💓 Monitor active - Listening for 90m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:04:05.566Z","level":"INFO","message":"💓 Monitor active - Listening for 95m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:09:05.568Z","level":"INFO","message":"💓 Monitor active - Listening for 100m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:14:05.570Z","level":"INFO","message":"💓 Monitor active - Listening for 105m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:19:05.572Z","level":"INFO","message":"💓 Monitor active - Listening for 110m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:24:05.572Z","level":"INFO","message":"💓 Monitor active - Listening for 115m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:29:05.573Z","level":"INFO","message":"💓 Monitor active - Listening for 120m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:34:05.572Z","level":"INFO","message":"💓 Monitor active - Listening for 125m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:39:05.572Z","level":"INFO","message":"💓 Monitor active - Listening for 130m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:44:05.578Z","level":"INFO","message":"💓 Monitor active - Listening for 135m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:49:05.582Z","level":"INFO","message":"💓 Monitor active - Listening for 140m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:54:05.586Z","level":"INFO","message":"💓 Monitor active - Listening for 145m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T22:59:05.591Z","level":"INFO","message":"💓 Monitor active - Listening for 150m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:04:05.595Z","level":"INFO","message":"💓 Monitor active - Listening for 155m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:09:05.598Z","level":"INFO","message":"💓 Monitor active - Listening for 160m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:14:05.602Z","level":"INFO","message":"💓 Monitor active - Listening for 165m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:19:05.603Z","level":"INFO","message":"💓 Monitor active - Listening for 170m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:24:05.607Z","level":"INFO","message":"💓 Monitor active - Listening for 175m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:29:05.609Z","level":"INFO","message":"💓 Monitor active - Listening for 180m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:34:05.612Z","level":"INFO","message":"💓 Monitor active - Listening for 185m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:39:05.614Z","level":"INFO","message":"💓 Monitor active - Listening for 190m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:44:05.616Z","level":"INFO","message":"💓 Monitor active - Listening for 195m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:49:05.618Z","level":"INFO","message":"💓 Monitor active - Listening for 200m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:54:05.620Z","level":"INFO","message":"💓 Monitor active - Listening for 205m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-16T23:59:05.621Z","level":"INFO","message":"💓 Monitor active - Listening for 210m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:04:05.623Z","level":"INFO","message":"💓 Monitor active - Listening for 215m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:09:05.623Z","level":"INFO","message":"💓 Monitor active - Listening for 220m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:14:05.625Z","level":"INFO","message":"💓 Monitor active - Listening for 225m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:19:05.625Z","level":"INFO","message":"💓 Monitor active - Listening for 230m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:24:05.626Z","level":"INFO","message":"💓 Monitor active - Listening for 235m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:29:05.627Z","level":"INFO","message":"💓 Monitor active - Listening for 240m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:34:05.627Z","level":"INFO","message":"💓 Monitor active - Listening for 245m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:39:05.632Z","level":"INFO","message":"💓 Monitor active - Listening for 250m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:44:05.638Z","level":"INFO","message":"💓 Monitor active - Listening for 255m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:49:05.642Z","level":"INFO","message":"💓 Monitor active - Listening for 260m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:54:05.646Z","level":"INFO","message":"💓 Monitor active - Listening for 265m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T00:59:05.650Z","level":"INFO","message":"💓 Monitor active - Listening for 270m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:04:05.653Z","level":"INFO","message":"💓 Monitor active - Listening for 275m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:09:05.658Z","level":"INFO","message":"💓 Monitor active - Listening for 280m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:14:05.662Z","level":"INFO","message":"💓 Monitor active - Listening for 285m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:19:05.666Z","level":"INFO","message":"💓 Monitor active - Listening for 290m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:24:05.670Z","level":"INFO","message":"💓 Monitor active - Listening for 295m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:29:05.673Z","level":"INFO","message":"💓 Monitor active - Listening for 300m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:34:05.676Z","level":"INFO","message":"💓 Monitor active - Listening for 305m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:39:05.678Z","level":"INFO","message":"💓 Monitor active - Listening for 310m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:44:05.681Z","level":"INFO","message":"💓 Monitor active - Listening for 315m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:49:05.684Z","level":"INFO","message":"💓 Monitor active - Listening for 320m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:54:05.687Z","level":"INFO","message":"💓 Monitor active - Listening for 325m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T01:59:05.690Z","level":"INFO","message":"💓 Monitor active - Listening for 330m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:04:05.695Z","level":"INFO","message":"💓 Monitor active - Listening for 335m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:09:05.694Z","level":"INFO","message":"💓 Monitor active - Listening for 340m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:14:05.695Z","level":"INFO","message":"💓 Monitor active - Listening for 345m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:19:05.698Z","level":"INFO","message":"💓 Monitor active - Listening for 350m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:24:05.704Z","level":"INFO","message":"💓 Monitor active - Listening for 355m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:29:05.701Z","level":"INFO","message":"💓 Monitor active - Listening for 360m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:34:05.701Z","level":"INFO","message":"💓 Monitor active - Listening for 365m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:39:05.705Z","level":"INFO","message":"💓 Monitor active - Listening for 370m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:44:05.701Z","level":"INFO","message":"💓 Monitor active - Listening for 375m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:49:05.705Z","level":"INFO","message":"💓 Monitor active - Listening for 380m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:54:05.706Z","level":"INFO","message":"💓 Monitor active - Listening for 385m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T02:59:05.710Z","level":"INFO","message":"💓 Monitor active - Listening for 390m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T03:04:05.713Z","level":"INFO","message":"💓 Monitor active - Listening for 395m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T03:09:05.711Z","level":"INFO","message":"💓 Monitor active - Listening for 400m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T03:14:05.713Z","level":"INFO","message":"💓 Monitor active - Listening for 405m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-17T03:19:05.717Z","level":"INFO","message":"💓 Monitor active - Listening for 410m | Pairs detected: 0","data":null}
+{"timestamp":"2025-10-28T19:30:48.096Z","level":"INFO","message":"Initializing monitor on base...","data":null}
+{"timestamp":"2025-10-28T19:30:48.105Z","level":"INFO","message":"Added factory: Uniswap V3 (0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6)","data":null}
+{"timestamp":"2025-10-28T19:30:48.107Z","level":"INFO","message":"Added factory: Aerodrome (0x420DD381b31aEf6683db6B902084cB0FFECe40Da)","data":null}
+{"timestamp":"2025-10-28T19:30:48.107Z","level":"SUCCESS","message":"Monitor initialized","data":null}
+{"timestamp":"2025-10-28T19:30:48.108Z","level":"INFO","message":"Starting to listen for new pairs...","data":null}
+{"timestamp":"2025-10-28T19:30:48.109Z","level":"INFO","message":"Listening to Uniswap V3...","data":null}
+{"timestamp":"2025-10-28T19:30:48.110Z","level":"INFO","message":"Listening to Aerodrome...","data":null}
+{"timestamp":"2025-10-28T19:30:48.113Z","level":"SUCCESS","message":"✓ Listening for new pairs on base","data":null}

@@ -1,0 +1,72 @@
+{"timestamp":"2025-10-16T07:05:02.451Z","level":"INFO","message":"\n════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.452Z","level":"INFO","message":"🧪 TOKEN SNIPER BOT - TEST SUITE","data":null}
+{"timestamp":"2025-10-16T07:05:02.452Z","level":"INFO","message":"════════════════════════════════════════════════════════════\n","data":null}
+{"timestamp":"2025-10-16T07:05:02.453Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.453Z","level":"INFO","message":"TEST 3: Configuration","data":null}
+{"timestamp":"2025-10-16T07:05:02.453Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.453Z","level":"INFO","message":"Network: base","data":null}
+{"timestamp":"2025-10-16T07:05:02.454Z","level":"INFO","message":"Max Buy: $200","data":null}
+{"timestamp":"2025-10-16T07:05:02.454Z","level":"INFO","message":"Take Profit: 5x","data":null}
+{"timestamp":"2025-10-16T07:05:02.454Z","level":"INFO","message":"Stop Loss: 0.5x","data":null}
+{"timestamp":"2025-10-16T07:05:02.455Z","level":"INFO","message":"Timeout: 3600s","data":null}
+{"timestamp":"2025-10-16T07:05:02.455Z","level":"INFO","message":"Min Liquidity: $20000","data":null}
+{"timestamp":"2025-10-16T07:05:02.456Z","level":"INFO","message":"Max Liquidity: $100000","data":null}
+{"timestamp":"2025-10-16T07:05:02.456Z","level":"INFO","message":"Required Tokens: WETH, USDC","data":null}
+{"timestamp":"2025-10-16T07:05:02.456Z","level":"SUCCESS","message":"\n✓ Configuration loaded\n","data":null}
+{"timestamp":"2025-10-16T07:05:02.459Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.459Z","level":"INFO","message":"TEST 2: Token Analyzer","data":null}
+{"timestamp":"2025-10-16T07:05:02.459Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.460Z","level":"INFO","message":"Testing with known token: WETH","data":null}
+{"timestamp":"2025-10-16T07:05:02.461Z","level":"INFO","message":"Address: 0x4200000000000000000000000000000000000006\n","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"\nAnalysis Results:","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"Contract Verified: ✗","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"Is Honeypot: ✗","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"Safety Score: 0/100","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"Passed: ✗","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"SUCCESS","message":"\n✓ Analyzer test passed\n","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"INFO","message":"⚠️  Skipping Monitor test (would take 30s)","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"   To test monitor, uncomment testMonitor() call\n","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"TEST SUMMARY","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"Tests Passed: 2/2","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"SUCCESS","message":"\n✓ All tests passed! Bot is ready to run.","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"\nTo start the bot:","data":null}
+{"timestamp":"2025-10-16T07:05:02.973Z","level":"INFO","message":"  npm run sniper:start","data":null}
+{"timestamp":"2025-10-16T07:05:02.974Z","level":"INFO","message":"════════════════════════════════════════════════════════════\n","data":null}
+{"timestamp":"2025-10-16T07:16:26.746Z","level":"INFO","message":"\n════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:26.747Z","level":"INFO","message":"🧪 TOKEN SNIPER BOT - TEST SUITE","data":null}
+{"timestamp":"2025-10-16T07:16:26.747Z","level":"INFO","message":"════════════════════════════════════════════════════════════\n","data":null}
+{"timestamp":"2025-10-16T07:16:26.748Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:26.748Z","level":"INFO","message":"TEST 3: Configuration","data":null}
+{"timestamp":"2025-10-16T07:16:26.748Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:26.748Z","level":"INFO","message":"Network: base","data":null}
+{"timestamp":"2025-10-16T07:16:26.749Z","level":"INFO","message":"Max Buy: $200","data":null}
+{"timestamp":"2025-10-16T07:16:26.749Z","level":"INFO","message":"Take Profit: 5x","data":null}
+{"timestamp":"2025-10-16T07:16:26.749Z","level":"INFO","message":"Stop Loss: 0.5x","data":null}
+{"timestamp":"2025-10-16T07:16:26.749Z","level":"INFO","message":"Timeout: 3600s","data":null}
+{"timestamp":"2025-10-16T07:16:26.749Z","level":"INFO","message":"Min Liquidity: $20000","data":null}
+{"timestamp":"2025-10-16T07:16:26.750Z","level":"INFO","message":"Max Liquidity: $100000","data":null}
+{"timestamp":"2025-10-16T07:16:26.750Z","level":"INFO","message":"Required Tokens: WETH, USDC","data":null}
+{"timestamp":"2025-10-16T07:16:26.750Z","level":"SUCCESS","message":"\n✓ Configuration loaded\n","data":null}
+{"timestamp":"2025-10-16T07:16:26.751Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:26.751Z","level":"INFO","message":"TEST 2: Token Analyzer","data":null}
+{"timestamp":"2025-10-16T07:16:26.752Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:26.752Z","level":"INFO","message":"Testing with known token: WETH","data":null}
+{"timestamp":"2025-10-16T07:16:26.753Z","level":"INFO","message":"Address: 0x4200000000000000000000000000000000000006\n","data":null}
+{"timestamp":"2025-10-16T07:16:27.298Z","level":"INFO","message":"\nAnalysis Results:","data":null}
+{"timestamp":"2025-10-16T07:16:27.299Z","level":"INFO","message":"Contract Verified: ✓","data":null}
+{"timestamp":"2025-10-16T07:16:27.299Z","level":"INFO","message":"Is Honeypot: ✓","data":null}
+{"timestamp":"2025-10-16T07:16:27.299Z","level":"INFO","message":"Safety Score: 75/100","data":null}
+{"timestamp":"2025-10-16T07:16:27.300Z","level":"INFO","message":"Passed: ✓","data":null}
+{"timestamp":"2025-10-16T07:16:27.300Z","level":"SUCCESS","message":"\n✓ Analyzer test passed\n","data":null}
+{"timestamp":"2025-10-16T07:16:27.300Z","level":"INFO","message":"⚠️  Skipping Monitor test (would take 30s)","data":null}
+{"timestamp":"2025-10-16T07:16:27.300Z","level":"INFO","message":"   To test monitor, uncomment testMonitor() call\n","data":null}
+{"timestamp":"2025-10-16T07:16:27.301Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:27.301Z","level":"INFO","message":"TEST SUMMARY","data":null}
+{"timestamp":"2025-10-16T07:16:27.301Z","level":"INFO","message":"════════════════════════════════════════════════════════════","data":null}
+{"timestamp":"2025-10-16T07:16:27.302Z","level":"INFO","message":"Tests Passed: 2/2","data":null}
+{"timestamp":"2025-10-16T07:16:27.302Z","level":"SUCCESS","message":"\n✓ All tests passed! Bot is ready to run.","data":null}
+{"timestamp":"2025-10-16T07:16:27.302Z","level":"INFO","message":"\nTo start the bot:","data":null}
+{"timestamp":"2025-10-16T07:16:27.302Z","level":"INFO","message":"  npm run sniper:start","data":null}
+{"timestamp":"2025-10-16T07:16:27.303Z","level":"INFO","message":"════════════════════════════════════════════════════════════\n","data":null}

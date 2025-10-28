@@ -1,0 +1,24 @@
+{"timestamp":"2025-10-16T07:05:02.461Z","level":"INFO","message":"\nAnalyzing token: 0x4200000000000000000000000000000000000006","data":null}
+{"timestamp":"2025-10-16T07:05:02.462Z","level":"INFO","message":"────────────────────────────────────────────────────────────","data":null}
+{"timestamp":"2025-10-16T07:05:02.707Z","level":"ERROR","message":"Error checking contract verification:","data":"server response 403 Forbidden (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://base-mainnet.g.alchemy.com/v2/KoPMe7dSJDN1rlVykaiHU\", \"responseBody\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"id\\\":null,\\\"error\\\":{\\\"code\\\":-32600,\\\"message\\\":\\\"BASE_MAINNET is not enabled for this app. Visit this page to enable the network: https://dashboard.alchemy.com/apps/cacjbso06a0wpvfj/networks\\\"}}\", \"responseStatus\": \"403 Forbidden\" }, code=SERVER_ERROR, version=6.13.4)"}
+{"timestamp":"2025-10-16T07:05:02.708Z","level":"INFO","message":"Contract Verified: ✗","data":null}
+{"timestamp":"2025-10-16T07:05:02.806Z","level":"WARNING","message":"Token reverts on balanceOf - possible honeypot indicator","data":null}
+{"timestamp":"2025-10-16T07:05:02.807Z","level":"INFO","message":"Honeypot Check: ✗ HONEYPOT!","data":null}
+{"timestamp":"2025-10-16T07:05:02.890Z","level":"ERROR","message":"Error checking liquidity:","data":"server response 403 Forbidden (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://base-mainnet.g.alchemy.com/v2/KoPMe7dSJDN1rlVykaiHU\", \"responseBody\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"id\\\":null,\\\"error\\\":{\\\"code\\\":-32600,\\\"message\\\":\\\"BASE_MAINNET is not enabled for this app. Visit this page to enable the network: https://dashboard.alchemy.com/apps/cacjbso06a0wpvfj/networks\\\"}}\", \"responseStatus\": \"403 Forbidden\" }, code=SERVER_ERROR, version=6.13.4)"}
+{"timestamp":"2025-10-16T07:05:02.890Z","level":"INFO","message":"Liquidity: ✗ ($0.00)","data":null}
+{"timestamp":"2025-10-16T07:05:02.971Z","level":"ERROR","message":"Error checking token supply:","data":"server response 403 Forbidden (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://base-mainnet.g.alchemy.com/v2/KoPMe7dSJDN1rlVykaiHU\", \"responseBody\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"id\\\":null,\\\"error\\\":{\\\"code\\\":-32600,\\\"message\\\":\\\"BASE_MAINNET is not enabled for this app. Visit this page to enable the network: https://dashboard.alchemy.com/apps/cacjbso06a0wpvfj/networks\\\"}}\", \"responseStatus\": \"403 Forbidden\" }, code=SERVER_ERROR, version=6.13.4)"}
+{"timestamp":"2025-10-16T07:05:02.971Z","level":"INFO","message":"Valid Supply: ✗","data":null}
+{"timestamp":"2025-10-16T07:05:02.971Z","level":"INFO","message":"────────────────────────────────────────────────────────────","data":null}
+{"timestamp":"2025-10-16T07:05:02.971Z","level":"INFO","message":"Safety Score: 0/100","data":null}
+{"timestamp":"2025-10-16T07:05:02.971Z","level":"WARNING","message":"✗ Token failed safety checks","data":null}
+{"timestamp":"2025-10-16T07:05:02.972Z","level":"WARNING","message":"Warnings: ","data":null}
+{"timestamp":"2025-10-16T07:16:26.755Z","level":"INFO","message":"\nAnalyzing token: 0x4200000000000000000000000000000000000006","data":null}
+{"timestamp":"2025-10-16T07:16:26.755Z","level":"INFO","message":"────────────────────────────────────────────────────────────","data":null}
+{"timestamp":"2025-10-16T07:16:26.966Z","level":"INFO","message":"Contract Verified: ✓","data":null}
+{"timestamp":"2025-10-16T07:16:27.098Z","level":"INFO","message":"Honeypot Check: ✓ Safe","data":null}
+{"timestamp":"2025-10-16T07:16:27.197Z","level":"ERROR","message":"Error checking liquidity:","data":"could not decode result data (value=\"0x\", info={ \"method\": \"liquidity\", \"signature\": \"liquidity()\" }, code=BAD_DATA, version=6.13.4)"}
+{"timestamp":"2025-10-16T07:16:27.198Z","level":"INFO","message":"Liquidity: ✗ ($0.00)","data":null}
+{"timestamp":"2025-10-16T07:16:27.296Z","level":"INFO","message":"Valid Supply: ✓","data":null}
+{"timestamp":"2025-10-16T07:16:27.297Z","level":"INFO","message":"────────────────────────────────────────────────────────────","data":null}
+{"timestamp":"2025-10-16T07:16:27.298Z","level":"INFO","message":"Safety Score: 75/100","data":null}
+{"timestamp":"2025-10-16T07:16:27.298Z","level":"SUCCESS","message":"✓ TOKEN PASSED SAFETY CHECKS!","data":null}
