@@ -1,4 +1,4 @@
-# SmarTron Wealth Builder 💰
+# 007 Sniper 💰
 
 > **Goal:** Transform $1,000 into $100,000 through strategic DeFi opportunities
 
@@ -62,7 +62,7 @@ Personal wealth-building monorepo combining multiple DeFi strategies: Flash loan
 ## 🏗️ Project Structure
 
 ```
-SmarTron/
+007_sniper_use/
 ├── strategies/
 │   ├── flash-loans/          # Balancer flash loan leverage
 │   ├── token-sniper/         # New token launch bot
@@ -87,7 +87,7 @@ SmarTron/
 ```bash
 # Clone repository
 git clone <your-repo>
-cd SmarTron
+cd 007_sniper_use
 
 # Install dependencies
 npm install

@@ -1,4 +1,4 @@
-# SmarTron Wealth Builder - Progress Tracker
+# 007 Sniper - Progress Tracker
 
 ## Goal: $1,000 → $100,000
 

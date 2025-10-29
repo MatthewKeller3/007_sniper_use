@@ -5,7 +5,7 @@ const path = require('path')
 const chalk = require('chalk')
 
 console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════════╗'))
-console.log(chalk.bold.cyan('║          SMARTRON WEALTH BUILDER - SETUP WIZARD               ║'))
+console.log(chalk.bold.cyan('║          007 SNIPER - SETUP WIZARD                            ║'))
 console.log(chalk.bold.cyan('╚════════════════════════════════════════════════════════════════╝\n'))
 
 /**

@@ -29,7 +29,7 @@ function initTelegram() {
  */
 async function notify(message, options = {}) {
   const {
-    strategy = 'SmarTron',
+    strategy = '007 Sniper',
     priority = 'normal', // 'low', 'normal', 'high', 'critical'
     silent = false
   } = options
@@ -109,7 +109,7 @@ ${Object.entries(stats.byStrategy).map(([name, data]) =>
   `.trim()
 
   await notify(message, {
-    strategy: 'SmarTron',
+    strategy: '007 Sniper',
     priority: 'normal'
   })
 }

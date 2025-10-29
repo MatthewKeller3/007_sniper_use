@@ -59,7 +59,7 @@ async function showDashboard() {
   const totalPnL = flashLoanStatus.pnl + sniperStatus.pnl
 
   console.log(chalk.bold.cyan('\n╔════════════════════════════════════════════════════════════════╗'))
-  console.log(chalk.bold.cyan('║          SMARTRON WEALTH BUILDER DASHBOARD                     ║'))
+  console.log(chalk.bold.cyan('║          007 SNIPER DASHBOARD                                  ║'))
   console.log(chalk.bold.cyan('╚════════════════════════════════════════════════════════════════╝\n'))
 
   console.log(chalk.white(`Wallet: ${optimismWallet.address}`))

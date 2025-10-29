@@ -1,8 +1,8 @@
-# Getting Started with SmarTron Wealth Builder 🚀
+# Getting Started with 007 Sniper 🚀
 
 ### Project Structure
 ```
-SmarTron/
+007_sniper_use/
 ├── strategies/
 │   ├── flash-loans/        ✅ Your existing code (moved here)
 │   ├── token-sniper/       ✅ Placeholder ready to build

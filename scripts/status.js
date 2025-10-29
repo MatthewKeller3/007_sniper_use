@@ -9,7 +9,7 @@ const path = require('path')
  */
 async function checkStatus() {
   console.log(chalk.bold.cyan('\n╔════════════════════════════════════════╗'))
-  console.log(chalk.bold.cyan('║    SMARTRON QUICK STATUS CHECK         ║'))
+  console.log(chalk.bold.cyan('║    007 SNIPER QUICK STATUS CHECK       ║'))
   console.log(chalk.bold.cyan('╚════════════════════════════════════════╝\n'))
   
   // Check environment
